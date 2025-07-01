@@ -3,7 +3,7 @@ How to Fix Your Xfinity Login Issue Quickly? 🔐⚡
 
 Experiencing a **Xfinity login issue** can be frustrating, especially when you need to check your bill, stream a show, or troubleshoot your connection. Fortunately, most login problems have simple solutions. Whether you're facing incorrect credentials, browser glitches, or password resets, this guide will help you fix your **Xfinity login issue** quickly and get back on track. 🚀
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
